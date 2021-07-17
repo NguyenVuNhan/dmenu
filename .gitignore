@@ -1,5 +1,4 @@
 .git
 *.o
-*.1
 dmenu
 stest
